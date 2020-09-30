@@ -1,0 +1,5 @@
+# Project exclude paths
+/shop-commons/target/
+/shop-order/target/
+/shop-user/target/
+/shop_product/target/
